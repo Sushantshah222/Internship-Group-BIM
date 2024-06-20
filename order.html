@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Submit Order</title>
+</head>
+<body>
+    <h1>Submit Your Order</h1>
+
+    <form action="submit_order.html">
+        <fieldset>
+        <label for="name">Name:</label>
+        <input type="text"  name="name" required><br><br>
+
+        <label for="email">Email:</label>
+        <input type="email"  name="email" required><br><br>
+
+        <label for="phone">Phone:</label>
+        <input type="number"  name="phone" required><br><br>
+
+        <label for="order">Order Details:</label>
+        <textarea name="order"  required></textarea><br><br>
+
+        <label for="address">Delivery Address:</label>
+        <textarea name="address" required></textarea><br><br>
+
+        <label for="menu">Select Item from Menu:</label>
+        <select name="menu">
+            <option value="pizza">Pizza - $10</option>
+            <option value="burger">Burger - $8</option>
+            <option value="pasta">Pasta - $12</option>
+        </select><br><br>
+
+        <button type="submit">Submit Order</button>
+    </fieldset>
+    </form>
+</body>
+</html>
