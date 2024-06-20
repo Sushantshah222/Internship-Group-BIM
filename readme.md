@@ -7,7 +7,7 @@ To submit the Web Development aassignment by forking this repository and pushing
 
 2. Clone the forked repository to your local machine using the following command in your terminal or command prompt:
    ```sh
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Sushantshah222/Internship-Group-BIM.git
    
 3. Navigate to the cloned repository on your local machine:
 
