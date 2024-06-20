@@ -12,12 +12,12 @@ To submit the Web Development aassignment by forking this repository and pushing
 3. Navigate to the cloned repository on your local machine:
 
     ```sh
-    cd repository-name
+    cd Internship-Group-BIM
     
 4. Create a new branch with the student's name using the following command:
 
     ```sh
-    git checkout -b student-name
+    git checkout -b Your-name (Branch Name)
 
 5. create and open the `Assignment_1_YourName.html` file in a text editor/Vs Code.
 
@@ -34,7 +34,7 @@ To submit the Web Development aassignment by forking this repository and pushing
 9. Push the changes to the forked repository on GitHub using the following command:
 
     ```sh        
-    git push origin student-name
+    git push origin Your-name (Branch Name)
 
 10. Go to the forked repository on GitHub and you will see a new branch named "student-name". 
 
