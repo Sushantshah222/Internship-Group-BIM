@@ -1,7 +1,7 @@
 # Internship home assignment for Group G
 This repo represents the assignment done by interns of Pi innovations (Group G).
 
-To submit the Python aassignment by forking this repository and pushing the individual student's code(filename.html) into a branch created with their own name, follow these steps:
+To submit the Web Development aassignment by forking this repository and pushing the individual student's code(Assignment_1_YourName.html) into a branch created with their own name, follow these steps:
 
 1. Fork this repository by clicking on the "Fork" button at the top right corner of the repository page. This will create a copy of the repository under your GitHub account.
 
@@ -19,15 +19,15 @@ To submit the Python aassignment by forking this repository and pushing the indi
     ```sh
     git checkout -b student-name
 
-5. create and open the `name.py` file in a text editor.
+5. create and open the `Assignment_1_YourName.html` file in a text editor/Vs Code.
 
-6. Solve your assignment in a single python file.
+6. Solve your assignment in a single html file.
 
 7. Save the changes to the file.
 
 8. Add the modified file to the staging area using the following command and commit it:
     ```sh
-   git add name.py
+   git add Assignment_1_YourName.html
    git commit -m" your commit msg" 
 
 
